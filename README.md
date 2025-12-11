@@ -84,38 +84,36 @@ https://github.com/brother0502tkm-beep/portfolio01
 
 ---
 
-### 5. イメージビジュアル（中段）
+### 5. MOVIE（動画セクション）
 ![セクション5](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%200.57.54.png?raw=true)
 
 ---
 
-### 6. MOVIE（動画セクション）
-![セクション6](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%200.59.22.png?raw=true)
+### 6. HOW TO USE（使い方）
+![セクション6a](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%200.59.22.png?raw=true)
+
+![セクション6b](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%200.59.37.png?raw=true)
 
 ---
 
-### 7. HOW TO USE（使い方） ※統合版（上〜下）
-![セクション7a](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%200.59.37.png?raw=true)
+### 7. MERIT（メリット）
+![セクション7a](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.04.20.png?raw=true)
 
-![セクション7b](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.01.35.png?raw=true)
-
----
-
-### 8. MERIT（メリット）
-![セクション8](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.01.44.png?raw=true)
+![セクション7b](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.04.37.png?raw=true)
 
 ---
 
-### 9. Q&A
-![セクション9](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.02.00.png?raw=true)
+### 8. Q&A
+![セクション8](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.01.35.png?raw=true)
 
 ---
 
-### 10. GALLERY（ギャラリー） ＋ CONTACT（お問い合わせ） ※統合版
-![セクション10a](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.04.20.png?raw=true)
+### 9. GALLERY（ギャラリー） ＋ CONTACT（お問い合わせ） 
+![セクション9a](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.01.44.png?raw=true)
 
-![セクション10b](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.04.37.png?raw=true)
+![セクション9b](https://github.com/brother0502tkm-beep/portfolio01/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-12-12%201.02.00.png?raw=true)
 
 ---
+
 
 
